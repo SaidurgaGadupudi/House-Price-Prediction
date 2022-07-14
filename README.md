@@ -1,5 +1,5 @@
-# House-Price-Prediction
-# This project is about HOUSE PRICE PREDICTION .Dataset is downloaded from the link :
+# This project is about HOUSE PRICE PREDICTION .
+Dataset is downloaded from the link :
 https://www.kaggle.com/datasets/heptapod/uci-ml-datasets.
 The dataset is preprocessed with following :
 1)Importing libraries
